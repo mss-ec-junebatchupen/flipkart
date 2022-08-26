@@ -1,7 +1,8 @@
-<<<<<<< HEA
 Hello I ma updating from master branchD
 sdm,samd,masn,dnm,asndm,kkkk
-dkldfklflk
-=======
+dkldfkl
 sdm,samd,masn,dnm,asndm,kkksdfkjsdkfjksdfjkk
->>>>>>> upendra26
+i am updating from dev branch
+
+sdm,samd,masn,dnm,asndm,
+
