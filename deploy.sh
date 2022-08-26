@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+<<<<<<< HEA
+Hello I ma updating from master branchD
 sdm,samd,masn,dnm,asndm,kkkk
 dkldfklflk
 =======
